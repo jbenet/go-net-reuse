@@ -1,3 +1,5 @@
+# warning: work in progress
+
 # go-net-reuse
 
 This is a simple package to get around the problem of reusing addresses.
