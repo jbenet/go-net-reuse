@@ -1,4 +1,6 @@
-# warning: work in progress
+## MOVED: https://github.com/jbenet/go-reuseport
+
+### warning: work in progress
 
 # go-net-reuse
 
